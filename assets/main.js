@@ -31,3 +31,20 @@ const slides = [
 
 // RICORDA: il query selector prende solo il primo elemento con il tag/classe selezionato, e funziona esattamente come le selezioni di css, selettori avanzati compresi
 // Per prendere tutti gli elementi con una certa classe/tag è possibile usare querySelectorAll()
+
+// selezione variabili
+    // RICORDA: variabile slide corrente
+
+// crea eventi
+
+// crea funzioni
+
+// funzione per stampare la slide
+
+// funzione per passare alla slide successive
+    // seleziona la slide corrente    
+    // (richiama la funzione stampa)
+
+// funzione per passare alla slide precedente
+    // seleziona la slide corrente    
+    // (richiama la funzione stampa)
