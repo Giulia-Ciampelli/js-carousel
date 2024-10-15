@@ -39,12 +39,12 @@ const slides = [
 
 // crea funzioni
 
-// funzione per stampare la slide
+    // funzione per stampare la slide
 
-// funzione per passare alla slide successive
-    // seleziona la slide corrente    
-    // (richiama la funzione stampa)
+    // funzione per passare alla slide successive
+        // seleziona la slide corrente    
+        // (richiama la funzione stampa)
 
-// funzione per passare alla slide precedente
-    // seleziona la slide corrente    
-    // (richiama la funzione stampa)
+    // funzione per passare alla slide precedente
+        // seleziona la slide corrente    
+        // (richiama la funzione stampa)
